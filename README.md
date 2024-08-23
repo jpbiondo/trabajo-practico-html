@@ -16,10 +16,10 @@ cubren varios conceptos de HTML como:
 Para visualizar el documento HTML en tu computadora hay que:
 1.**Clonar el Repositorio**:
 ```sh
-   git clone https://github.com/jpbiondo/trabajo-practico-html.git
+git clone https://github.com/jpbiondo/trabajo-practico-html.git
 ```
 2. **Navegar al Directorio del Proyecto descargado:**
 ```sh
-   cd trabajo-practico-html
+cd trabajo-practico-html
 ```
 3. **Abrir el archivo `index.html`:** Se puede abrir en tu navegador o levantar un live server con tu editor de código o IDE por extensiones.
